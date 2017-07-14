@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D7DABD3A1F17A22400F104E7"
+               BuildableName = "FirebaseAssessment.app"
+               BlueprintName = "FirebaseAssessment"
+               ReferencedContainer = "container:FirebaseAssessment.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D7DABD4E1F17A22400F104E7"
+               BuildableName = "FirebaseAssessmentTests.xctest"
+               BlueprintName = "FirebaseAssessmentTests"
+               ReferencedContainer = "container:FirebaseAssessment.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D7DABD591F17A22400F104E7"
+               BuildableName = "FirebaseAssessmentUITests.xctest"
+               BlueprintName = "FirebaseAssessmentUITests"
+               ReferencedContainer = "container:FirebaseAssessment.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D7DABD3A1F17A22400F104E7"
+            BuildableName = "FirebaseAssessment.app"
+            BlueprintName = "FirebaseAssessment"
+            ReferencedContainer = "container:FirebaseAssessment.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D7DABD3A1F17A22400F104E7"
+            BuildableName = "FirebaseAssessment.app"
+            BlueprintName = "FirebaseAssessment"
+            ReferencedContainer = "container:FirebaseAssessment.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D7DABD3A1F17A22400F104E7"
+            BuildableName = "FirebaseAssessment.app"
+            BlueprintName = "FirebaseAssessment"
+            ReferencedContainer = "container:FirebaseAssessment.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

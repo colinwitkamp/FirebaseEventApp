@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseAssessment/EventTableCell.swift"
+            timestampString = "521663749.034692"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "EventTableCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseAssessment.EventTableCell.__deallocating_deinit"
+                  moduleName = "FirebaseAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MACDATA/Current_Work/Arya/FirebaseAssessment/FirebaseAssessment/EventTableCell.swift"
+                  timestampString = "521662960.298737"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseAssessment.EventTableCell.init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; FirebaseAssessment.EventTableCell"
+                  moduleName = "FirebaseAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MACDATA/Current_Work/Arya/FirebaseAssessment/FirebaseAssessment/EventTableCell.swift"
+                  timestampString = "521662960.300253"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseAssessment.EventTableCell.__allocating_init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; FirebaseAssessment.EventTableCell"
+                  moduleName = "FirebaseAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MACDATA/Current_Work/Arya/FirebaseAssessment/FirebaseAssessment/EventTableCell.swift"
+                  timestampString = "521662960.302106"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseAssessment.EventTableCell.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FirebaseAssessment.EventTableCell&gt;"
+                  moduleName = "FirebaseAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MACDATA/Current_Work/Arya/FirebaseAssessment/FirebaseAssessment/EventTableCell.swift"
+                  timestampString = "521662960.303525"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseAssessment.EventTableCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FirebaseAssessment.EventTableCell&gt;"
+                  moduleName = "FirebaseAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MACDATA/Current_Work/Arya/FirebaseAssessment/FirebaseAssessment/EventTableCell.swift"
+                  timestampString = "521662960.304724"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseAssessment/Event.swift"
+            timestampString = "521728531.161757"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "init(snapshot:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseAssessment/Store.swift"
+            timestampString = "521730304.461412"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "Store"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static FirebaseAssessment.Store.watchEvents (createdAfter : Swift.Double, eventAdded : () -&gt; ()) -&gt; ()"
+                  moduleName = "FirebaseAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MACDATA/Current_Work/Arya/FirebaseAssessment/FirebaseAssessment/Store.swift"
+                  timestampString = "521664295.96619"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static FirebaseAssessment.Store.(watchEvents (createdAfter : Swift.Double, eventAdded : () -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "FirebaseAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MACDATA/Current_Work/Arya/FirebaseAssessment/FirebaseAssessment/Store.swift"
+                  timestampString = "521664295.968056"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseAssessment/Store.swift"
+            timestampString = "521730534.318117"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "saveEvent(event:isNew:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseAssessment/Store.swift"
+            timestampString = "521730399.480521"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "watchUpdatedEvents(eventUpdated:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseAssessment/Store.swift"
+            timestampString = "521730430.542749"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "watchUpdatedEvents(eventUpdated:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
